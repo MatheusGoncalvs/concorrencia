@@ -1,0 +1,11 @@
+C:\Users\Teu\source\repos\concorrencia\bin\Debug\netcoreapp2.2\concorrencia.deps.json
+C:\Users\Teu\source\repos\concorrencia\bin\Debug\netcoreapp2.2\concorrencia.runtimeconfig.json
+C:\Users\Teu\source\repos\concorrencia\bin\Debug\netcoreapp2.2\concorrencia.runtimeconfig.dev.json
+C:\Users\Teu\source\repos\concorrencia\bin\Debug\netcoreapp2.2\concorrencia.dll
+C:\Users\Teu\source\repos\concorrencia\bin\Debug\netcoreapp2.2\concorrencia.pdb
+C:\Users\Teu\source\repos\concorrencia\obj\Debug\netcoreapp2.2\concorrencia.csprojAssemblyReference.cache
+C:\Users\Teu\source\repos\concorrencia\obj\Debug\netcoreapp2.2\concorrencia.csproj.CoreCompileInputs.cache
+C:\Users\Teu\source\repos\concorrencia\obj\Debug\netcoreapp2.2\concorrencia.AssemblyInfoInputs.cache
+C:\Users\Teu\source\repos\concorrencia\obj\Debug\netcoreapp2.2\concorrencia.AssemblyInfo.cs
+C:\Users\Teu\source\repos\concorrencia\obj\Debug\netcoreapp2.2\concorrencia.dll
+C:\Users\Teu\source\repos\concorrencia\obj\Debug\netcoreapp2.2\concorrencia.pdb
